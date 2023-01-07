@@ -1,0 +1,30 @@
+* {
+  font-family: 'Work Sans', sans-serif;
+  margin: 0;
+}
+
+/* Header styles */
+header {
+  background-image: url(../images/banner/banner1.png);
+  background-repeat: no-repeat;
+  text-align: right;
+  padding: 0 230px 364px 845px;
+}
+
+.heading {
+  font-weight: 700;
+  padding-top: 216px;
+}
+
+.paragraph {
+  margin-top: 24px;
+  margin-bottom: 32px;
+}
+
+.btn-primary {
+  background-color: rgb(255, 81, 0);
+  color: #FFFFFF;
+  height: 64px;
+  width: 160px;
+  margin-bottom: 166px;
+}
