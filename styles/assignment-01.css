@@ -3,6 +3,13 @@
   margin: 0;
 }
 
+h3 {
+  margin-bottom: 24px;
+  font-weight: 700;
+  font-size: 40px;
+  text-align: center;
+}
+
 /* Header styles */
 header {
   background-image: url(../images/banner/banner1.png);
@@ -11,9 +18,17 @@ header {
   padding: 0 230px 364px 845px;
 }
 
-.heading {
+h1 {
+  color: #151414;
   font-weight: 700;
   padding-top: 216px;
+  font-size: 65px;
+
+}
+
+.believe {
+  display: block;
+
 }
 
 .paragraph {
@@ -27,4 +42,39 @@ header {
   height: 64px;
   width: 160px;
   margin-bottom: 166px;
+}
+
+/* failure Section */
+.failure-section {
+  display: flex;
+}
+
+.banner-failure {
+  height: 723.3px;
+  margin-left: 206px;
+  margin-right: 87px;
+}
+
+.banner-article {
+  width: 416px;
+  height: 400px;
+  margin-right: 322px;
+
+}
+.failure-section .list-section {
+  /* list-style-type: none; */
+}
+/* plan section */
+.plan-section{
+  margin-top: 214.3px;
+  margin-left: 230px;
+  margin-right: 230px;
+  
+}
+.plan-container{
+  display: flex;
+  gap: 86px;
+}
+.plans{
+  justify-content:space-around;
 }
