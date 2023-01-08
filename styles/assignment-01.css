@@ -69,12 +69,17 @@ h1 {
   margin-top: 214.3px;
   margin-left: 230px;
   margin-right: 230px;
+  align-items: center;
   
 }
 .plan-container{
   display: flex;
+  align-items: center;
   gap: 86px;
 }
 .plans{
-  justify-content:space-around;
+  
+}
+main{
+
 }
