@@ -61,25 +61,66 @@ h1 {
   margin-right: 322px;
 
 }
+
 .failure-section .list-section {
   /* list-style-type: none; */
 }
+
 /* plan section */
-.plan-section{
+.plan-section {
   margin-top: 214.3px;
   margin-left: 230px;
   margin-right: 230px;
   align-items: center;
-  
+  margin-bottom: 130px;
+
 }
-.plan-container{
+
+.plan-container {
   display: flex;
   align-items: center;
   gap: 86px;
 }
-.plans{
+
+.plans {}
+
+main {}
+
+.watch-emded-section{
   
 }
-main{
+.watch-pic {
+  background-image: url(../images/watch.png), url(../images/gradient1.png);
+  background-repeat: no-repeat;
+  max-width: 1140px;
+  align-items: center;
+  margin: 130px 230px 130px 230px;
+}
 
+.watch-heading {
+  color: #FFFFFF;
+  font-weight: 700;
+  font-size: 40px;
+  width: 459px;
+  height: 94px;
+  padding: 59px 617px 59px 64px;
+  margin-bottom: 24px;
+}
+
+.call-now {
+  width: 160px;
+  height: 64px;
+  padding: 20px 30px 20px 30px;
+  /* margin-top: 24px; */
+  margin-left: 64px;
+  color: #F15B22;
+  background-color: #FFFFFF;
+  
+}
+footer{
+  background: #151414;
+  color: #F8F8F8;
+}
+.left-section{
+  margin: 230px 885px 130px 230px;
 }
